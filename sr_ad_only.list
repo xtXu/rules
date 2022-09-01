@@ -27297,7 +27297,7 @@ DOMAIN-SUFFIX,windofaeolus.com,REJECT
 DOMAIN-SUFFIX,windoorsew.club,REJECT
 DOMAIN-SUFFIX,window.nixnet.cz,REJECT
 DOMAIN-SUFFIX,windowmentaria.com,REJECT
-DOMAIN-SUFFIX,windows.net,REJECT
+# DOMAIN-SUFFIX,windows.net,REJECT
 DOMAIN-SUFFIX,windowsastronomyfading.com,REJECT
 DOMAIN-SUFFIX,windowspieceencumber.com,REJECT
 DOMAIN-SUFFIX,windowsxi.com,REJECT
