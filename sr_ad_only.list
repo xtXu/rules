@@ -193,15 +193,15 @@ DOMAIN-SUFFIX,taboola.com,REJECT
 DOMAIN-SUFFIX,trc.taboola.com,REJECT
 #付呗收款码支付后跳转到的广告地址（支付宝内）
 DOMAIN-SUFFIX,tuisnake.com,REJECT
-DOMAIN-SUFFIX,.duiba.com.cn,REJECT
-DOMAIN-SUFFIX,.dui88.com,REJECT
+DOMAIN-SUFFIX,duiba.com.cn,REJECT
+DOMAIN-SUFFIX,dui88.com,REJECT
 #喜马拉雅跟踪和广告
 DOMAIN-SUFFIX,location.ximalaya.com,REJECT
 DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,REJECT
 #广告联盟
-DOMAIN-SUFFIX,.inmobi.cn,REJECT
-DOMAIN-SUFFIX,.criteo.com,REJECT
+DOMAIN-SUFFIX, .inmobi.cn,REJECT
+DOMAIN-SUFFIX, .criteo.com,REJECT
 #169
 DOMAIN-SUFFIX,adx.hupu.com,REJECT
 DOMAIN-SUFFIX,kikibt8.com,REJECT
