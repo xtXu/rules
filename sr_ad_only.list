@@ -200,8 +200,8 @@ DOMAIN-SUFFIX,location.ximalaya.com,REJECT
 DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,REJECT
 #广告联盟
-DOMAIN-SUFFIX, .inmobi.cn,REJECT
-DOMAIN-SUFFIX, .criteo.com,REJECT
+DOMAIN-SUFFIX,inmobi.cn,REJECT
+DOMAIN-SUFFIX,criteo.com,REJECT
 #169
 DOMAIN-SUFFIX,adx.hupu.com,REJECT
 DOMAIN-SUFFIX,kikibt8.com,REJECT
