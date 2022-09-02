@@ -171,7 +171,7 @@ IP-CIDR,60.211.211.1/32,REJECT
 DOMAIN-SUFFIX,im-x.jd.com,REJECT
 DOMAIN-SUFFIX,ad.ipadview.com,REJECT
 #以下为某些不可描述网站加载的乱七八糟广告
-DOMAIN-SUFFIX,.maizhenai.cn,REJECT
+#DOMAIN-SUFFIX,.maizhenai.cn,REJECT
 DOMAIN-SUFFIX,.paomifen.cn,REJECT
 DOMAIN-SUFFIX,.songlaoban.cn,REJECT
 DOMAIN-SUFFIX,.09mk.cn,REJECT
